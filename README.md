@@ -4,7 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-I am adding a line for rebasing
+I am adding a line for rebasing,
+more change from myfaeture branch
 
 ## Deployment
 Sample website with plenty of files for demos
