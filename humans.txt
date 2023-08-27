@@ -6,8 +6,7 @@
     <name> Mohammad Ahmad <role>notwitter<twitter>
 
 # THANKS
-
-    <name>
+Thanks to Ahmad
 
 # TECHNOLOGY COLOPHON
 
